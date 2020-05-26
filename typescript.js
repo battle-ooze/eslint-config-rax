@@ -40,7 +40,6 @@ module.exports = {
     "@typescript-eslint/no-namespace": "error",
     "@typescript-eslint/no-non-null-assertion": "error",
     "@typescript-eslint/no-parameter-properties": "error",
-    "@typescript-eslint/no-triple-slash-reference": "error",
     "no-unused-vars": "off",
     "@typescript-eslint/no-unused-vars": "warn",
     "@typescript-eslint/no-use-before-define": "error",
