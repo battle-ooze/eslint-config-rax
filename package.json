@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-rax",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A universal tslint config.",
   "license": "BSD-3-Clause",
   "main": "index.js",
