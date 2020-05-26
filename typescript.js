@@ -30,7 +30,6 @@ module.exports = {
     "@typescript-eslint/ban-types": "error",
     "@typescript-eslint/explicit-function-return-type": "warn",
     "@typescript-eslint/explicit-member-accessibility": "error",
-    "@typescript-eslint/interface-name-prefix": "error",
     "@typescript-eslint/member-delimiter-style": "error",
     "@typescript-eslint/no-angle-bracket-type-assertion": "error",
     "no-array-constructor": "off",
