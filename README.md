@@ -7,15 +7,15 @@ npm install eslint-config-rax
 依赖的库有：
 ```
   // 基础依赖
-  "babel-eslint": "^10.0.1"
-  "eslint": "^5.16.0"
-  "eslint-plugin-import": "^2.17.2"
+  "babel-eslint": "^10.1.0",
+  "eslint": "^7.1.0",
+  "eslint-plugin-import": "^2.20.2",
   // 使用Typescript时依赖
-  "@typescript-eslint/eslint-plugin": "^1.7.0"
-  "@typescript-eslint/parser": "^1.7.0"
-  "typescript": "^3.4.5"
+  "@typescript-eslint/eslint-plugin": "^3.0.1",
+  "@typescript-eslint/parser": "^3.0.1",
+  "typescript": "^3.9.3"
   // 使用React时依赖
-  "eslint-plugin-react": "^7.12.4"
+  "eslint-plugin-react": "^7.20.0",
 ```
 
 ## 使用
